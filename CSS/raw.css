@@ -16,19 +16,19 @@
 /** Scrollbars **/
 /* Chat */
 .ChatChannelMessagesList-container::-webkit-scrollbar-thumb {
-    background: white !important;
+    background: red !important;
 }
 /* Members List */
 .PageSidebarWrapper-tab:hover::-webkit-scrollbar-thumb {
-    background: white !important;
+    background: red !important;
 }
 /* Channels List */
 .TeamNavMenu-wrapper:hover::-webkit-scrollbar-thumb {
-    background: white !important;
+    background: red !important;
 }
 /* Settings */
 .OptionsMenu-option-content::-webkit-scrollbar-thumb {
-    background: white !important;
+    background: red !important;
 }
 /** Context Menu **/
 /* Background */
@@ -178,7 +178,7 @@ body {
 /** Explore Players **/
 /* Cards */
 .PlayerCard-container {
-    background: rgba(79, 81, 93, 0.75) !important;
+    background: rgba(115, 81, 93, 0.75) !important;
     backdrop-filter: blur(10px);
 }
 
@@ -190,7 +190,7 @@ body {
 }
 /* Quick Action Bar */
 .QuickActionBar-container {
-    background: rgba(79, 81, 93, 0.50);
+    background: rgba(115, 81, 93, 0.50);
     border-radius: 7px;
     border: none;
     padding: 4px 4px;
@@ -232,7 +232,7 @@ body {
 /*** Chat ***/
 /** Messages **/
 .ChatV2Message-container-active {
-    background-color: rgba(41, 43, 50, 0);
+    background-color: rgba(115, 43, 50, 0);
 }
 /* Dividers */
 .ChatV2Message-container-type-system:not(.ChatV2Message-container-same-next-type):not(.ChatV2Message-container-last-message):not(.ChatV2Message-container-last-message-for-day):after {
@@ -256,7 +256,7 @@ body {
 /** Code Blocks **/
 /* Background */
 .CodeContainerRenderer-container {
-    background-color: rgba(41, 43, 50, 0.75);
+    background-color: rgba(115, 43, 50, 0.75);
     backdrop-filter: blur(10px);
     border-radius: 7px !important;
 }
@@ -280,7 +280,7 @@ body {
 .ItemManagerListItem-container-selectable:after {
     border: none;
     border-radius: 7px;
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     backdrop-filter: blur(10px);
     z-index: -1;
 }
@@ -292,13 +292,13 @@ body {
 .SearchBarInput-container-bordered {
     border: none;
     border-radius: 7px;
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     backdrop-filter: blur(10px);
 }
 /** Media **/
 /* Grid */
 .MediaDisplayItemV3-container {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     backdrop-filter: blur(10px);
 }
 .ProgressiveLoadedImage-container-cover img {
@@ -312,7 +312,7 @@ body {
 /** Docs **/
 /* Background */
 .DocDisplayItem-container {
-    background-color: rgba(60, 62, 72, 0.50);
+    background-color: rgba(115, 62, 72, 0.50);
     -webkit-user-select: none;
     border-radius: 7px;
     box-shadow: none;
@@ -322,19 +322,19 @@ body {
     display: none;
 }
 .DocSummaryInfo-container {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 0px 0px 7px 7px;
 }
 /** Calendar **/
 /* Background */
 .FullSizedCalendar-week {
     border: none;
-    background-color: rgba(50, 52, 61, 0.75);
+    background-color: rgba(115, 52, 61, 0.75);
     backdrop-filter: blur(10px);
 }
 .UpcomingCalendarDay-container {
     border: none;
-    background-color: rgba(50, 52, 61, 0.75);
+    background-color: rgba(115, 52, 61, 0.75);
     backdrop-filter: blur(10px);
     margin-bottom: 10px;
     border-radius: 7px;
@@ -361,12 +361,12 @@ body {
 /** Annoucements **/
 /* Background */
 .OverviewWidgetItemWrapper-container-type-filled {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
 }
 .OverviewWidgetItemWrapper-container.OverviewWidgetItemWrapper-container-standalone.OverviewWidgetSkeleton-container.OverviewWidgetSkeleton-container-announcement.OverviewWidgetSkeleton-container-type-filled {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
 }
@@ -376,7 +376,7 @@ body {
 /* Upcoming Events and Latest Annoucements */
 .TeamOverviewContentItemCard-container {
     border-radius: 7px;
-    background-color: rgba(51, 52, 61, 0.50);
+    background-color: rgba(115, 52, 61, 0.50);
     backdrop-filter: blur(10px);
 }
 
@@ -387,7 +387,7 @@ body {
 /** Post a Reply aka Leave a comment */ /* Guilded is great, that's my comment */
 /* Background */
 .Editor-container {
-    background: rgba(49, 49, 49, 0.5);
+    background: rgba(115, 49, 49, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
 }
@@ -396,17 +396,17 @@ body {
     border-top: none;
     border-bottom: none;
     padding: 5px 0px;
-    background: rgba(49, 49, 49, 0.5);
+    background: rgba(115, 49, 49, 0.5);
 }
 .SlateToolbarStrip-iconGroup:not(:last-child) {
     border-right: none;
     border-radius: 7px;
-    background: rgb(73, 69, 68);
+    background: rgb(115, 69, 68);
     margin: 0px 4px;
 }
 /* Other Comments */
 .ReplyPanel-container.ReplyPanel-container-viewing.ReplyPanel-container-size-md.ReplyPanel-container-desktop.RepliesDisplayV2-item {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
 }
