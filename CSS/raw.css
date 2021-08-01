@@ -251,7 +251,7 @@ body {
     text-align: left;
     margin-left: 32px;
     color: red !important;
-    background: #ff6347;
+    background: rgba(255, 99, 71, 0.2);
 }
 /** Code Blocks **/
 /* Background */
@@ -586,7 +586,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
     background-color: transparent;
 }
 .StatusContext-container.OptionsMenu-option-content {
-    background: #36363f;
+    background: rgba(255, 99, 71, 0.2);
     border-radius: 0px 7px 7px 0px;
     backdrop-filter: blur(10px);
 }
