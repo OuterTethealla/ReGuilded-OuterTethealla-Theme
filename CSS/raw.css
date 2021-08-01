@@ -250,8 +250,8 @@ body {
     border-radius: 7px;
     text-align: left;
     margin-left: 32px;
-    color: black !important;
-    background: #f5c400;
+    color: red !important;
+    background: #ff6347;
 }
 /** Code Blocks **/
 /* Background */
