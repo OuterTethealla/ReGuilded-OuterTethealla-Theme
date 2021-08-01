@@ -4,7 +4,7 @@
 
 .OptionsMenu-options-control::before {
     content: "Outer Tethe'alla";
-    background: #32343d;
+    background: #ff6347;
     padding: 7px 26px;
     color: red;
     font-weight: bold;
