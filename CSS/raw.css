@@ -424,13 +424,13 @@ body {
 
 /* Leadboards */
 .GameContext-container.TeamOverviewLeaderboardItem-leaderboard-container.TeamOverviewLeaderboardSection-leaderboard-container {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
 }
 /* Pinned */
 a.TeamPostRow-container.TeamPostRow-container-desktop.PinnedAnnouncement-container.PinnedAnnouncements-announcement {
-    background-color: rgba(50, 52, 61, 0.5);
+    background-color: rgba(115, 52, 61, 0.5);
     border-radius: 7px;
 }
 /* Gradinet Dropdown */
@@ -456,7 +456,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 .ChatChannelArchivedControl-container {
     backdrop-filter: blur(10px);
     border-radius: 7px;
-    background: rgba(76, 76, 76, 0.5);
+    background: rgba(115, 76, 76, 0.5);
     border: none;
     width: 100%;
 }
@@ -482,7 +482,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 /* Background */
 .OpenGraphEmbed-content {
     min-height: 72px;
-    background-color: rgba(50, 52, 61, 0.75);
+    background-color: rgba(115, 52, 61, 0.75);
     backdrop-filter: blur(10px);
     border-radius: 7px;
     border: none;
@@ -493,7 +493,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 .ChatEmbed-container.ChatEmbedsRenderer-embed {
     backdrop-filter: blur(10px);
     border-radius: 7px;
-    background-color: rgba(50, 52, 61, 0.75);
+    background-color: rgba(115, 52, 61, 0.75);
     border: none;
 }
 /** Achrived Thread **/
@@ -503,7 +503,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
     backdrop-filter: blur(10px);
 }
 .ChatV2MessageReplyTooltip-content-wrapper {
-    background-color: rgba(50, 52, 61, 0.75);
+    background-color: rgba(115, 52, 61, 0.75);
     backdrop-filter: blur(10px);
     border-radius: 7px;
     border: none;
@@ -517,7 +517,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 }
 /* Thread */
 .LastReplyDisplay-container {
-    background: rgba(72, 75, 81, 0.5);
+    background: rgba(115, 75, 81, 0.5);
     padding: 10px 20px;
     border-radius: 7px;
 }
@@ -573,7 +573,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 .RadioOptionPanel-container {
     border-radius: 7px;
     border: none;
-    background: rgba(60, 62, 72, 0.9);
+    background: rgba(115, 62, 72, 0.9);
 }
 .CopyableTextbox-container.CopyableTextbox-container-desktop.CopyableTextbox-container-form.CopyableTextbox-container-type-embed {
     border-radius: 7px;
@@ -603,7 +603,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
     border-radius: 7px;
 }
 .OptionsMenu-container-desktop .OptionsMenu-options-control {
-    background-color: rgba(25, 27, 31, 0.75);
+    background-color: rgba(115, 27, 31, 0.75);
     backdrop-filter: blur(10px);
     border-radius: 7px 0px 0px 7px;
 }
@@ -661,7 +661,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
     border-top: 7px solid #f5c400;
 }
 .UserProfilePostPanel-container {
-    background-color: rgba(50, 52, 61, 0.90);
+    background-color: rgba(115, 52, 61, 0.90);
     color: white;
     border-radius: 7px;
     backdrop-filter: blur(10px);
@@ -677,7 +677,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 /** Set Your Status **/
 /* Background */
 .ModalV2-container.ModalV2-container-has-header, .ModalHeaderV2-container {
-    background: rgba(55, 57, 67, 0.90);
+    background: rgba(115, 57, 67, 0.90);
 }
 /* Borders */
 .UserStatusOverlay-container .UserStatusMessageExipreDisplay-container, .ModalV2-container-has-header .ModalV2-modal-content, .ModalFooter-container {
@@ -686,7 +686,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 /** Pinned Messages **/
 /* Background */
 .ChannelPinnedMessages-container {
-    background: rgba(78, 80, 92, 0.75);
+    background: rgba(115, 80, 92, 0.75);
     border-radius: 7px;
     backdrop-filter: blur(10px);
     border: none;
@@ -698,7 +698,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 /* Messages */
 .ChatV2PinnedMessage-message-wrapper {
     border-radius: 7px;
-    background: rgba(41,43,50,0.5);
+    background: rgba(115,43,50,0.5);
 }
 /** Profile **/
 /* Background */
@@ -766,7 +766,7 @@ img.TeamOverviewBanner-banner.TeamPageBanner-overview-banner {
 
 
 .ProfileHoverCardV2Overlay-action-menu {
-    background-color: rgba(41, 43, 50, 0.25);
+    background-color: rgba(115, 43, 50, 0.25);
 }
 
 .SetupUpsell-container {
@@ -795,7 +795,7 @@ img.UserProfileBackground-image {
 
 
 .StreamChannelDisplay-container {
-    background-color: rgba(30, 32, 37, 0.5);
+    background-color: rgba(115, 32, 37, 0.5);
     backdrop-filter: blur(20px) brightness(0.6);
     border-radius: 10px;
     border: none !important;
@@ -814,7 +814,7 @@ img.UserProfileBackground-image {
     border: none;
     margin: 10px;
     border-radius: 10px;
-    background-color: rgba(30, 32, 37, 0.5);
+    background-color: rgba(115, 32, 37, 0.5);
     backdrop-filter: blur(20px) brightness(0.6);
 }
 
