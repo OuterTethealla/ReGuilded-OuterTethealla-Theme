@@ -33,7 +33,7 @@
 /** Context Menu **/
 /* Background */
 .TransientMenu-container-style-default {
-    background-color: rgba(78, 80, 92, 0.75);
+    background-color: rgba(115, 80, 92, 0.75);
     border: none;
     backdrop-filter: blur(10px);
     border-radius: 7px !important;
