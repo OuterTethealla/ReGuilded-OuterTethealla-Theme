@@ -163,7 +163,7 @@ body {
     background: transparent;
 }
 .TypeaheadMenu-container {
-    background: rgba(79, 81, 93, 0.75) !important;
+    background: rgba(115, 81, 93, 0.75) !important;
     border-radius: 7px;
     border: none !important;
     backdrop-filter: blur(10px);
